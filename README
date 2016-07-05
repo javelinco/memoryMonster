@@ -1,0 +1,3 @@
+Memory monster is intended to continually use up memory until the system cannot allocate more, or until the program is terminated.
+
+In order to run the program, execute it with one parameter: the size of the variable you want allocated in each loop.
